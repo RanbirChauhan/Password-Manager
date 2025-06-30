@@ -21,7 +21,7 @@ A lightweight, frontend-only password manager built using **React** and **Tailwi
 
 ## 🖥️ Screenshots
 
-![App Screenshot](.password-box/assets/password-box.png)
+![App Screenshot](./src/assets/password-box.png)
 
 ## 📦 Installation
 
